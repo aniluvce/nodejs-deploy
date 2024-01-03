@@ -1,6 +1,6 @@
 # Node Hello World
 
-Simple node.js app that servers "A Monk in Cloud"
+Simple node.js app that servers "A NodeJS in Cloud"
 
 Great for testing simple deployments on Cloud
 
@@ -48,13 +48,13 @@ This command will print the git version in the terminal.
 Run below command to clone the code repository from Github:
 
 ```bash
-git clone https://github.com/yeshwanthlm/nodejs-on-ec2.git
+git clone https://github.com/aniluvce/nodejs-deploy.git
 ```
 
 Get inside the directory and Install Packages
 
 ```bash
-cd nodejs-on-ec2
+cd nodejs-deploy
 npm install
 ```
 
